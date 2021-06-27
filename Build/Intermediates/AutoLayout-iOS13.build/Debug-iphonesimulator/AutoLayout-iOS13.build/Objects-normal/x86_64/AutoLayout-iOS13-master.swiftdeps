@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "fde40b405e4c445862b25a72cec4248a"
+build_time: [1623767977, 20693000]
+inputs:
+  "/Users/Ronish/Documents/iOS Udemy/AutoLayout-iOS13/AutoLayout-iOS13/ViewController.swift": [1623767965, 744892162]
+  "/Users/Ronish/Documents/iOS Udemy/AutoLayout-iOS13/AutoLayout-iOS13/AppDelegate.swift": [1623767965, 669596108]
+  "/Users/Ronish/Documents/iOS Udemy/AutoLayout-iOS13/AutoLayout-iOS13/SceneDelegate.swift": [1623767965, 744000832]
